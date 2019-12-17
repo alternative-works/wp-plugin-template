@@ -5,3 +5,4 @@
 
 コマンド：
 `composer require miya/gh-auto-updater`
+
